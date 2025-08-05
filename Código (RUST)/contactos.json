@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Rafa",
+    "cumple": "12/12",
+    "telefono": "3441312",
+    "correo": "rafasdfadf@gmail.com"
+  },
+  {
+    "nombre": "Angel",
+    "cumple": "10/05",
+    "telefono": "943524",
+    "correo": "angel13411@hotmail.com"
+  },
+  {
+    "nombre": "Fernado Car",
+    "cumple": "15/06",
+    "telefono": "968584874",
+    "correo": "curiasdf@gmail.com"
+  }
+]
